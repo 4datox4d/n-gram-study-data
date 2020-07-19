@@ -1,0 +1,100 @@
+1.What does the writer of this passage evidently believes that carrier pigeons are?
+N AllenNLP: winged their way through skies fair and foul
+N DeepPavlov.ai: I don't know
+Y BERT: feathered heroes
+
+2. What was G.I. Joe was rewarded for?
+Y AllenNLP: saving the day for the British
+N DeepPavlov.ai: the Dickin Medal
+N BERT:Dickin Medalis
+
+3. What was G.I. Joe's reward?
+Y AllenNLP: Dickin Medal
+Y DeepPavlov.ai: Dickin Medal
+Y BERT:  Dickin Medal
+
+4. What does the word vital means?
+N AllenNLP: feathered heroes are still an important communication link in any army
+N DeepPavlov.ai: messages of battle
+N BERT: messages of battle
+
+5. Which title best expresses the main idea of this selection?
+Y AllenNLP: Powdered zirconium
+N DeepPavlov.ai: I don't know
+N BERT:  jewelry making
+
+6. Which does The word docile mean?
+N AllenNLP: safe covering plate for sensitive brain tissues
+N DeepPavlov.ai: zirconium
+N BERT: sensitive brain tissues
+
+7. What does the selection emphasize?
+N AllenNLP: poor choice for inclusion in skin products
+N DeepPavlov.ai: I don't know
+Y BERT: structural material for chemical equipment and for super rockets and jet engines
+
+8. When is Zirconium is not safe to handle?
+N AllenNLP: when it is bound up with other elements to form mineral compounds
+N DeepPavlov.ai: when it is bound up with other elements to form mineral compounds
+N BERT: Its irritating properties make it a poor choice for inclusion in skin products
+
+9. What does the selection tells us that zirconium is?
+Y AllenNLP: wonder metal of a fantastic new industry
+N DeepPavlov.ai:  It is so docile
+Y BERT: rare metal
+
+10. In what field is Zirconium not likely to be useful? 
+N AllenNLP: mineral compounds
+N DeepPavlov.ai: nuclear reactors
+N BERT: jewelry making
+
+11. Why did the Pony Express rider stop at a station?
+N AllenNLP: a telegraph line offered a swifter means of communication
+N DeepPavlov.ai: the station had been burned, the keepers killed, and the horses run off by attacking Indians
+N BERT: a telegraph line offered a swifter means of communication
+
+12. What does The mochilla refers to?
+Y AllenNLP: the saddle bag containing the mail
+Y DeepPavlov.ai: the saddle bag containing the mail
+Y BERT: the saddle bag containing the mail
+
+13. What does this passage imply that most of the Pony Express riders were? 
+N AllenNLP: carried the mail between Missouri and California for less than two years. They stopped riding
+N DeepPavlov.ai: I don't know
+N BERT:  the station had been burned, the keepers killed, and the horses run off by attacking Indians
+
+14. How soon could those sending mail by Pony Express expect that it would reach its destination?
+N AllenNLP: less than two years
+N DeepPavlov.ai: dawn
+Y BERT: ten-day limit. Most made it in eight days
+
+15. What was the longest continuous run? 
+N AllenNLP: Buffalo Bill
+Y DeepPavlov.ai: 384 miles
+Y BERT:  384 miles
+
+16. What statement is most likely true, based on the passage?
+N AllenNLP: Buffalo Bill
+N DeepPavlov.ai: I don't know
+N BERT: the station had been burned, the keepers killed, and the horses run off by attacking Indians
+
+17. What title best expresses the topic of this selection?
+Y AllenNLP: Archaeopteryx
+N DeepPavlov.ai:  I don't know
+Y BERT: Aurornis xui
+
+18. According to the passage, Archaeopteryx could best be described as
+Y AllenNLP: more like a cross between a bird and a dinosaur
+Y DeepPavlov.ai: Archaeopteryx was more like a cross between a bird and a dinosaur
+N BERT: bird
+
+19. In the context of the passage, what does the the phrase "accepted wisdom" mean?
+N AllenNLP: bird
+N DeepPavlov.ai: first known bird
+N BERT: early bird gets the worm
+
+20. According to the passage, today's birds are descendants of
+Y AllenNLP: birds are descendants of dinosaurs
+Y DeepPavlov.ai: dinosaurs
+Y BERT:  dinosaurs
+ 
